@@ -1,0 +1,19 @@
+{
+  "name": "spreadcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/.bin/_mocha --reporter spec --ui bdd --exit 'test/*spec.js'"
+  },
+  "author": "Charles",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "csvtojson": "^2.0.10",
+    "mocha": "^8.1.1",
+    "sinon": "^9.0.3",
+    "underscore": "^1.10.2"
+  }
+}
