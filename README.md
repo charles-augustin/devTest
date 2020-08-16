@@ -23,7 +23,7 @@ Please install Node JS to run the application. `https://nodejs.org/en/download/`
 Note: Path parameters are configured to absolute path. eg: `npm run start "C:\Users\charl\Desktop\devTest\input\sample_input.csv" "C:\Users\charl\Desktop\devTest\output\sampleOutput.json"`
 
 inputFile- CSV format
-outputFile - JSON format
+outputFile - JSON format | data1 - spread_to_benchmark | data2 - spread_to_curve
 
 ## How to run the test suite
 
