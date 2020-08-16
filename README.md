@@ -22,6 +22,9 @@ Please install Node JS to run the application. `https://nodejs.org/en/download/`
 
 Note: Path parameters are configured to absolute path. eg: `npm run start "C:\Users\charl\Desktop\devTest\input\sample_input.csv" "C:\Users\charl\Desktop\devTest\output\sampleOutput.json"`
 
+inputFile- CSV format
+outputFile - JSON format
+
 ## How to run the test suite
 
 Run `npm run test` to execute test suite and will display test results in command line.
@@ -30,7 +33,7 @@ Test framework - Chai, Mocha
 
 ## Design choices
 
-- I chose Node JS to develop this application as it runs faster than traditional languages and it is easier to maintain due to its wide developer community support. Could not add more test coverage due to time constraint.
+- I chose Node JS to develop this application as it runs faster than traditional languages and it is easier to maintain due to its wide developer community support.
 
 ## Code organization
 
@@ -51,3 +54,7 @@ Test framework - Chai, Mocha
 ## Validation
 
 - Proper test suite is created to test method behaviour independently using chai and mocha frameworks and automatically.
+
+## Improvement
+
+- Could not add more test coverage due to time constraint. Would like to cover more test cases if given additional time.
