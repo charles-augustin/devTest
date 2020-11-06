@@ -41,7 +41,7 @@ Test framework - Chai, Mocha
 
 ## Reusability
 
-- Created a common utils file with repeated functions that can be resued across the application.
+- Created a common utils file with repeated functions that can be reused across the application.
 
 ## Coding Standard & Formatting
 
@@ -53,7 +53,7 @@ Test framework - Chai, Mocha
 
 ## Validation
 
-- Proper test suite is created to test method behaviour independently using chai and mocha frameworks and automatically.
+- Proper test suite is created to test method behaviour independently using chai and mocha frameworks.
 
 ## Improvement
 
